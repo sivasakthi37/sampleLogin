@@ -1,0 +1,100 @@
+.AuthPage {
+  display: flex;
+  width: 530px;
+  height: 573px;
+  border-radius: 12px;
+  border-radius: 7600;
+  background: #fff;
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  margin: auto;
+}
+.main {
+  width: 50%;
+  background: #2f82be;
+  border-top-left-radius: 12px;
+  border-bottom-left-radius: 12px;
+}
+.information {
+  padding: 0px 50px;
+}
+.header {
+  /* color: white; */
+  padding-top: 82px;
+  padding-bottom: 65px;
+}
+h1 {
+  margin: 0;
+}
+
+.discription {
+  font-size: 20px;
+  color: #cae9ea;
+  padding-bottom: 41px;
+}
+.secDiscription {
+  font-size: 20px;
+  color: #cae9ea;
+  padding-bottom: 59px;
+}
+span {
+  font-weight: bold;
+  color: white;
+}
+
+button {
+  width: 240px;
+  height: 64px;
+  cursor: pointer;
+  background: white;
+  font-size: 15px;
+  font-weight: bold;
+  border: black;
+  border-top-left-radius: 12px;
+  border-bottom-right-radius: 12px;
+}
+
+.register {
+  width: 100%;
+}
+.registerMain {
+  padding: 0px 50px;
+}
+.header {
+  padding-top: 82px;
+  padding-bottom: 52px;
+  padding-left: 12px;
+}
+h1 {
+  margin: 0;
+}
+
+.form {
+  display: flex;
+  flex-wrap: wrap;
+  text-align: left;
+}
+.validation {
+  color: red;
+  margin: 0px;
+  font-size: 13px;
+}
+.registerButton {
+  display: flex;
+  padding: 23px 12px 12px 0px;
+}
+button {
+  width: 185px;
+  cursor: pointer;
+  height: 64px;
+  background: #2f82be;
+  font-size: 18px;
+  font-weight: bold;
+  border: black;
+  color: white;
+  border-top-left-radius: 12px;
+  border-bottom-right-radius: 12px;
+}

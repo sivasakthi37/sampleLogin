@@ -1,0 +1,27 @@
+.inputMain {
+  padding: 12px;
+  width: 100%;
+}
+.labelContainer {
+  padding-bottom: 16px;
+}
+.label {
+  color: #777;
+  font-size: 17px;
+  font-family: system-ui;
+}
+
+.input {
+  height: 55px;
+  width: 100%;
+}
+.validation {
+  color: red;
+  margin: 0px;
+  font-size: 13px;
+}
+
+.inputv {
+  margin-left: -30px;
+  color: red;
+}
